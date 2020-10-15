@@ -1,0 +1,26 @@
+{
+  "name": "crud_rest_api_1",
+  "version": "1.0.0",
+  "description": "aplikasi crud rest api 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pancadaya94/crud_rest_api_1.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "crud",
+    "node",
+    "js"
+  ],
+  "author": "sukma_kade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pancadaya94/crud_rest_api_1/issues"
+  },
+  "homepage": "https://github.com/pancadaya94/crud_rest_api_1#readme"
+}
